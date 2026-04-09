@@ -37,7 +37,7 @@ It is built for the pace of small retail: keeping checkout fast, keeping product
 
 ## 📞 Contact Nexill
 For setup questions, commercial licensing, deployment support, or general product inquiries, contact:  
-**maghrbi006@gmail.com**
+**contact@nexillretail.store**
 
 ---
 
